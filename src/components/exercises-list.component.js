@@ -68,6 +68,5 @@ export default class ExercisesList extends Component {
                 </table>
             </div>
         );
-
     }
 }
